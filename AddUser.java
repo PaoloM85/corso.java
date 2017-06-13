@@ -19,7 +19,7 @@ public class AddUser extends HttpServlet {
 	/**
 	 *  @see HttpServlet#AddUser()
     */
-    public AddUser() {
+    public AddUser() 
         super();
     }
 
